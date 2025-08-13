@@ -1,0 +1,14 @@
+{
+  "chainId": "etherlink",
+  "tests": [
+    {
+      "txHash": "0xd4fe88fac8f8ba8ab31cb08e0a9674e9c1de6a437522354a427b739058cb7221",
+      "expected": [
+        {
+          "from": "0x529e1f4a0a33645156d8A976C63f83584279366e",
+          "to": "0x89757Cfed2Baab244c321e0fe252669cFF89F47A"
+        }
+      ]
+    }
+  ]
+} 
